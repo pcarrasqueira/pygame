@@ -1,2 +1,2 @@
-# pyGames
-Some games I've made to make me learn python, together with [Paulo Carrasqueira](https://github.com/pcarrasqueira)
+# Game development in Python
+Three games I developed together with my friend [Pedro Cordeiro](https://github.com/PedroNCordeiro) to learn some Python skills.
